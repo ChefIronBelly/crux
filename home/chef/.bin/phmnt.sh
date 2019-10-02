@@ -1,3 +1,3 @@
 #! /bin/sh
 
-sudo simple-mtpfs --device 1 /media/phone
+sudo simple-mtpfs --device 1 /mnt/phone
